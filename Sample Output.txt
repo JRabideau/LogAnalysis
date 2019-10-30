@@ -1,0 +1,18 @@
+vagrant@vagrant:/vagrant$ python loganalysis.py
+Here are the three most popular articles
+
+Candidate is jerk, alleges rival: 338647 Views
+Bears love berries, alleges bear: 253801 Views
+Bad things gone, say good people: 170098 Views
+
+
+Here are the most popular authors:
+
+Ursula La Multa: 507594 Total Article Views
+Rudolf von Treppenwitz: 423457 Total Article Views
+Anonymous Contributor: 170098 Total Article Views
+Markoff Chaney: 84557 Total Article Views
+Here are the dates that produced more that 1 percent errors:
+
+2016-07-17: 2.26268624680272595600 Percent Errors
+vagrant@vagrant:/vagrant$
